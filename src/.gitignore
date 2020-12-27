@@ -1,4 +1,0 @@
-.env*
-debug.log
-.secret
-node_modules
