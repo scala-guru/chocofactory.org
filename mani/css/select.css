@@ -1,0 +1,408 @@
+.mediaViewInfo {
+  --web-view-name: Select;
+  --web-view-id: Select;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-application: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Select;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#Select {
+  overflow: hidden;
+  --web-view-name: Select;
+  --web-view-id: Select;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-application: true;
+  --web-enable-deep-linking: true;
+}
+#Group_672 {
+  width: 562.373px;
+  height: 785px;
+  z-index: 10;
+  overflow: visible;
+}
+#Path_16826 {
+  fill: rgba(121,66,40,1);
+  stroke: rgba(112,112,112,1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_16826 {
+  filter: drop-shadow(-10px 10px 15px rgba(0, 0, 0, 0.161));
+  overflow: visible;
+  position: absolute;
+  width: 607.373px;
+  height: 830px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Path_16827 {
+  opacity: 0.311;
+  fill: rgba(234,234,234,1);
+  stroke: rgba(112,112,112,1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_16827 {
+  overflow: visible;
+  position: absolute;
+  width: 519px;
+  height: 516px;
+  left: 22px;
+  top: 189.544px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Select_a_token {
+  left: 31px;
+  top: 70px !important;
+  position: absolute;
+  overflow: visible;
+  width: 215px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(255,255,255,1);
+}
+#ChocoFactory_List {
+  left: 22px;
+  top: 723.544px;
+  position: absolute;
+  overflow: visible;
+  width: 279px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(255,255,255,1);
+}
+#Change {
+  left: 429px;
+  top: 723.544px;
+  position: absolute;
+  overflow: visible;
+  width: 113px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(255,255,255,1);
+}
+#Rectangle_14 {
+  opacity: 0.849;
+  fill: rgba(184,115,58,1);
+}
+.Rectangle_14 {
+  position: absolute;
+  overflow: visible;
+  width: 518.673px;
+  height: 66.379px;
+  left: 23px;
+  top: 103.544px;
+}
+#Search_name_or_Paste_address {
+  opacity: 0.371;
+  left: 59px;
+  top: 121.544px;
+  position: absolute;
+  overflow: visible;
+  width: 373px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  color: rgba(255,255,255,1);
+}
+#KTKT {
+  /* left: 439px !important; */
+  /* top: 355px !important; */
+  position: absolute;
+  overflow: visible;
+  width: 81px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 27px;
+  color: rgba(255,255,255,1);
+}
+#KTKT_be {
+  left: 127px;
+  top: 292.544px;
+  position: absolute;
+  overflow: visible;
+  width: 81px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 27px;
+  color: rgba(255,255,255,1);
+}
+#KTKT_bf {
+  left: 127px;
+  top: 362.544px;
+  position: absolute;
+  overflow: visible;
+  width: 81px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 27px;
+  color: rgba(255,255,255,1);
+}
+#KTKT_bg {
+  left: 127px;
+  top: 432.544px;
+  position: absolute;
+  overflow: visible;
+  width: 81px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 27px;
+  color: rgba(255,255,255,1);
+}
+#KTKT_bh {
+  left: 127px;
+  top: 502.544px;
+  position: absolute;
+  overflow: visible;
+  width: 81px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 27px;
+  color: rgba(255,255,255,1);
+}
+#KTKT_bi {
+  left: 127px;
+  top: 572.544px;
+  position: absolute;
+  overflow: visible;
+  width: 81px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 27px;
+  color: rgba(255,255,255,1);
+}
+#KTKT_bj {
+  left: 127px;
+  top: 642.544px;
+  position: absolute;
+  overflow: visible;
+  width: 81px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 27px;
+  color: rgba(255,255,255,1);
+}
+#Union_18 {
+  fill: rgba(255,255,255,1);
+}
+.Union_18 {
+  overflow: visible;
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  transform: translate(-599px, -297.456px) matrix(1,0,0,1,1093.9998,341.001) rotate(45deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+}
+#ktktlogo {
+  position: absolute;
+  width: 35.881px;
+  height: 30px;
+  left: 68.5px;
+  top: 25px !important;
+  overflow: visible;
+}
+#ktktlogo_bm {
+  position: absolute;
+  width: 35.881px;
+  height: 56.364px;
+  left: 68.5px;
+  top: 279.544px;
+  overflow: visible;
+}
+#ktktlogo_bn {
+  position: absolute;
+  width: 35.881px;
+  height: 56.364px;
+  left: 68.5px;
+  top: 349.544px;
+  overflow: visible;
+}
+#ktktlogo_bo {
+  position: absolute;
+  width: 35.881px;
+  height: 56.364px;
+  left: 68.5px;
+  top: 419.544px;
+  overflow: visible;
+}
+#ktktlogo_bp {
+  position: absolute;
+  width: 35.881px;
+  height: 56.364px;
+  left: 68.5px;
+  top: 489.544px;
+  overflow: visible;
+}
+#ktktlogo_bq {
+  position: absolute;
+  width: 35.881px;
+  height: 56.364px;
+  left: 68.5px;
+  top: 559.544px;
+  overflow: visible;
+}
+#ktktlogo_br {
+  position: absolute;
+  width: 35.881px;
+  height: 56.364px;
+  left: 68.5px;
+  top: 629.544px;
+  overflow: visible;
+}
+#ID0 {
+  left: 485px;
+  top: 220.544px;
+  position: absolute;
+  overflow: visible;
+  width: 19px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(255,255,255,1);
+}
+#ID0_bt {
+  left: 485px;
+  top: 290.544px;
+  position: absolute;
+  overflow: visible;
+  width: 19px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(255,255,255,1);
+}
+#ID0_bu {
+  left: 485px;
+  top: 360.544px;
+  position: absolute;
+  overflow: visible;
+  width: 19px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(255,255,255,1);
+}
+#ID0_bv {
+  left: 485px;
+  top: 430.544px;
+  position: absolute;
+  overflow: visible;
+  width: 19px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(255,255,255,1);
+}
+#ID0_bw {
+  left: 485px;
+  top: 500.544px;
+  position: absolute;
+  overflow: visible;
+  width: 19px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(255,255,255,1);
+}
+#ID0_bx {
+  left: 485px;
+  top: 570.544px;
+  position: absolute;
+  overflow: visible;
+  width: 19px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(255,255,255,1);
+}
+#ID0_by {
+  left: 485px;
+  top: 640.544px;
+  position: absolute;
+  overflow: visible;
+  width: 19px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cooper Black;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(255,255,255,1);
+}
